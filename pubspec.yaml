@@ -1,7 +1,7 @@
 name: fl_download
 version: 0.0.1
 description: 基于Dio实现的文件下载库,简单方便,开箱即用
-homepage: https://github:com/ssh199956/fl_download
+homepage: https://github.com/ssh199956/fl_download
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
